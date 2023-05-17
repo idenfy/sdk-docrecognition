@@ -1,3 +1,3 @@
 install: 
-  - FILE="-Dfile=com.idenfy.idenfyDocRecognition-7.8.1.aar"
-  - mvn install:install-file $FILE -DgroupId=idenfy -DartifactId=idenfyDocRecognition -Dversion=7.8.1 -DpomFile=com.idenfy.idenfyDocRecognition-7.8.1.pom
+  - FILE="-Dfile=com.idenfy.idenfyDocRecognition-7.9.0.aar"
+  - mvn install:install-file $FILE -DgroupId=idenfy -DartifactId=idenfyDocRecognition -Dversion=7.9.0 -DpomFile=com.idenfy.idenfyDocRecognition-7.9.0.pom
